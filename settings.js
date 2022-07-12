@@ -4,8 +4,8 @@ const infuraId = "52cf9376ca0149889215a557c6ef7c53"     // Infuria Project ID | 
 const moralisApi = "UFZFSHwkweXCj3FHGZHXxFITwXNVYgMog2wk5kq60hpmR2HFUxKt8Rz1uZQmbkE2"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "Bored Ape Kids",
-    title: "Bored Ape Kids", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    name: "The Loopssessed",
+    title: "The Loopssessed", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "12.07.2022",
     socialMedia: {
         discord: "https://discord.gg/example",
@@ -16,10 +16,10 @@ const collectionInfo = {
         favicon: "logo.png",
     },
     background: {
-        type: "image",              // Supported types: image, video, color
+        type: "color",              // Supported types: image, video, color
         image: "background.jpg",    // Image for image type, video preview for video type
         video: "background.mp4",    // If you don't use video, you can ignore this line
-        color: "#FFF",           // If you don't use color, you can ignore this line
+        color: "#222123",           // If you don't use color, you can ignore this line
     }
 }
 const mintInfo = {
