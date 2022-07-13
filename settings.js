@@ -4,8 +4,8 @@ const infuraId = "52cf9376ca0149889215a557c6ef7c53"     // Infuria Project ID | 
 const moralisApi = "UFZFSHwkweXCj3FHGZHXxFITwXNVYgMog2wk5kq60hpmR2HFUxKt8Rz1uZQmbkE2"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "Bored Ape Kids",
-    title: "Bored Ape Kids", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    name: "Mutant WZRDS",
+    title: "Mutant WZRDS", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "12.07.2022",
     socialMedia: {
         discord: "https://discord.gg/example",
